@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp2.1\GenericsDemo.deps.json
+C:\Users\taylo\Desktop\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp2.1\GenericsDemo.runtimeconfig.json
+C:\Users\taylo\Desktop\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp2.1\GenericsDemo.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp2.1\GenericsDemo.dll
+C:\Users\taylo\Desktop\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp2.1\GenericsDemo.pdb
+C:\Users\taylo\Desktop\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp2.1\GenericsDemo.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp2.1\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Desktop\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp2.1\GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp2.1\GenericsDemo.AssemblyInfo.cs
+C:\Users\taylo\Desktop\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp2.1\GenericsDemo.dll
+C:\Users\taylo\Desktop\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp2.1\GenericsDemo.pdb
