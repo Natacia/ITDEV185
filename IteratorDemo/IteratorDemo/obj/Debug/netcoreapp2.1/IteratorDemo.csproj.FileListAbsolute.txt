@@ -1,0 +1,11 @@
+C:\Users\taylo\Desktop\IteratorDemo\IteratorDemo\obj\Debug\netcoreapp2.1\IteratorDemo.csprojAssemblyReference.cache
+C:\Users\taylo\Desktop\IteratorDemo\IteratorDemo\obj\Debug\netcoreapp2.1\IteratorDemo.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Desktop\IteratorDemo\IteratorDemo\obj\Debug\netcoreapp2.1\IteratorDemo.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\IteratorDemo\IteratorDemo\obj\Debug\netcoreapp2.1\IteratorDemo.AssemblyInfo.cs
+C:\Users\taylo\Desktop\IteratorDemo\IteratorDemo\bin\Debug\netcoreapp2.1\IteratorDemo.deps.json
+C:\Users\taylo\Desktop\IteratorDemo\IteratorDemo\bin\Debug\netcoreapp2.1\IteratorDemo.runtimeconfig.json
+C:\Users\taylo\Desktop\IteratorDemo\IteratorDemo\bin\Debug\netcoreapp2.1\IteratorDemo.runtimeconfig.dev.json
+C:\Users\taylo\Desktop\IteratorDemo\IteratorDemo\bin\Debug\netcoreapp2.1\IteratorDemo.dll
+C:\Users\taylo\Desktop\IteratorDemo\IteratorDemo\bin\Debug\netcoreapp2.1\IteratorDemo.pdb
+C:\Users\taylo\Desktop\IteratorDemo\IteratorDemo\obj\Debug\netcoreapp2.1\IteratorDemo.dll
+C:\Users\taylo\Desktop\IteratorDemo\IteratorDemo\obj\Debug\netcoreapp2.1\IteratorDemo.pdb
