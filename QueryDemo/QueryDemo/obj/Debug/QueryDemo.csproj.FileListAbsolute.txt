@@ -1,0 +1,14 @@
+C:\Users\ncampbel\source\repos\QueryDemo\QueryDemo\bin\Debug\QueryDemo.exe.config
+C:\Users\ncampbel\source\repos\QueryDemo\QueryDemo\bin\Debug\QueryDemo.exe
+C:\Users\ncampbel\source\repos\QueryDemo\QueryDemo\bin\Debug\QueryDemo.pdb
+C:\Users\ncampbel\source\repos\QueryDemo\QueryDemo\obj\Debug\QueryDemo.csprojAssemblyReference.cache
+C:\Users\ncampbel\source\repos\QueryDemo\QueryDemo\obj\Debug\QueryDemo.csproj.CoreCompileInputs.cache
+C:\Users\ncampbel\source\repos\QueryDemo\QueryDemo\obj\Debug\QueryDemo.exe
+C:\Users\ncampbel\source\repos\QueryDemo\QueryDemo\obj\Debug\QueryDemo.pdb
+C:\Users\taylo\Downloads\QueryDemo-20200319T015243Z-001\QueryDemo\QueryDemo\bin\Debug\QueryDemo.exe.config
+C:\Users\taylo\Downloads\QueryDemo-20200319T015243Z-001\QueryDemo\QueryDemo\bin\Debug\QueryDemo.exe
+C:\Users\taylo\Downloads\QueryDemo-20200319T015243Z-001\QueryDemo\QueryDemo\bin\Debug\QueryDemo.pdb
+C:\Users\taylo\Downloads\QueryDemo-20200319T015243Z-001\QueryDemo\QueryDemo\obj\Debug\QueryDemo.csprojAssemblyReference.cache
+C:\Users\taylo\Downloads\QueryDemo-20200319T015243Z-001\QueryDemo\QueryDemo\obj\Debug\QueryDemo.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Downloads\QueryDemo-20200319T015243Z-001\QueryDemo\QueryDemo\obj\Debug\QueryDemo.exe
+C:\Users\taylo\Downloads\QueryDemo-20200319T015243Z-001\QueryDemo\QueryDemo\obj\Debug\QueryDemo.pdb
